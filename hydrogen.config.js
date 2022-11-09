@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import {defineConfig, CookieSessionStorage} from '@shopify/hydrogen/config';
 
 export default defineConfig({
